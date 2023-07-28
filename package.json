@@ -16,4 +16,7 @@
     "url": "https://github.com/weijiang2023/algmon-llm-wechat-test/issues"
   },
   "homepage": "https://github.com/weijiang2023/algmon-llm-wechat-test#readme"
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
